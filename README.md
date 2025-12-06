@@ -4,7 +4,7 @@
 
 I'm a **Full Stack Developer** with **4+ years of experience** building scalable web applications and microservices. Currently pursuing my **Master's in Computer Science** at **Lamar University** (GPA: 3.9/4.0), I specialize in designing high-performance cloud-native solutions.
 
-💼 **Open to Full-Time Opportunities** | F-1 OPT Eligible
+💼 **Open to Full-Time Opportunities** 
 
 ## 💻 Tech Stack
 
