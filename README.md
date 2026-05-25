@@ -59,21 +59,14 @@ I'm a **Full Stack Developer** with **4+ years of experience** building scalable
 - Achieved 94% accuracy with hybrid PCA-Random Forest approach
 - Improved detection efficiency by 30% for IoT/cybersecurity datasets
 
-## 📊 GitHub Stats
 
-![Rushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rushi0800&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi0800&layout=compact&theme=tokyonight)
-
-## 🌟 Featured Projects
-
-Check out my pinned repositories below to see what I've been working on!
 
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushi-bandathmakuru)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rushi-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandathmakuru.rushi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandathmakuru.rushibandathmakuru06@gmail.com)
 
 ---
 
