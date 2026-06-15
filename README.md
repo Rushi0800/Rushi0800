@@ -36,35 +36,38 @@ Full-Stack Developer and Software Engineer with 4+ years of experience deliverin
 
 ### 🔬 Software Engineer @ Paypal  
 *Feb 2025 - Present*
-- Designed and developed scalable Java applications for core operations, including customer portals and billing systems, ensuring robust functionality and user-friendly interfaces.
-- Collaborated closely with cross-functional teams to gather comprehensive requirements, conduct thorough testing, and ensure seamless deployment of solutions.
-- Implemented advanced object-oriented principles and design patterns to maintain clean, reusable Java codebases, optimizing efficiency and scalability.
+> Rearchitected fraud mitigation pipelines by designing and deploying serverless RESTful APIs using AWS Lambda
+and API Gateway, reducing transaction processing latency by 35% and cutting infrastructure overhead.
+> Optimized user interface performance by engineering React and TypeScript frontend components integrated with
+AWS Amplify and S3, improving UI responsiveness by 40% and stabilizing backend data synchronization.
+> Engineered high-throughput architectures to handle peak transaction traffic by building scalable microservices
+using Java and Spring Boot on AWS EC2 and ECS, increasing system throughput by 25% across millions of daily
+API calls
 
 
-### 💳 Full Stack Developer @ JPMorgan Chase  
+### 💳 Software Engineer @ JPMorgan Chase  
 *Jan 2022 - Dec 2023*
-- Developed microservices processing millions of daily financial transactions
-- Reduced transaction latency by 35% with event-driven architecture
-- Cut deployment time by 50% with automated CI/CD pipelines
-- Improved security with JWT/OAuth 2.0 and PCI-DSS compliance
+> Developed retail banking frontends for core user management and product catalog modules using React and Redux,
+hosting via AWS S3 and Amplify to elevate customer web retention scores by 15%.
+> Orchestrated document submission pipelines by designing backend RESTful APIs and serverless workflows using
+Spring Boot and AWS Lambda, scaling processing capabilities by 45% while dropping server compute costs.
+> Containerized financial microservices with Docker and deployed them to AWS ECS/EKS clusters using
+CloudFormation, achieving 99.99% high availability and building a reproducible Infrastructure as Code (IaC)
+environment.
 
 ### 🏢 Java Developer @ Lowe's  
 *Jan 2021 - Dec 2021*
-- Modernized legacy billing systems improving performance by 40%
-- Enhanced customer satisfaction by 25% with React UI improvements
-- Automated deployments reducing manual efforts by 50%
+> Scaled customer-facing web portals and billing architectures by developing clean code infrastructure using Java,
+Spring, and Hibernate connected to high-throughput RESTful API backends, accelerating response times by 30%.
+> Refactored core modules from a legacy monolith by applying advanced object-oriented principles and design
+patterns, decreasing technical debt by 20% and cutting feature delivery times in half.
+> Eradicated database bottlenecks during high-traffic retail spikes by optimizing enterprise database interactions and
+streamlining complex Hibernate queries, dropping production CPU utilization by 25%.
 
 ## 📚 Education
 
 **Master of Science in Computer Science** | Lamar University | GPA: 3.91/4.0  
-*Coursework:* Data Structures, Algorithms, Cloud Computing, Software Engineering, Big Data, AI, Machine Learning
-
-## 📝 Publications
-
-**Intrusion Detection System Using PCA and Random Forest**  
-*International Journal of Applied Engineering and Management Applications (IJAEMA)*
-- Achieved 94% accuracy with hybrid PCA-Random Forest approach
-- Improved detection efficiency by 30% for IoT/cybersecurity datasets
+*Coursework:* Data Structures, Algorithms, Cloud Computing, Software Engineering, Big Data, Generative AI, Machine Learning
 
 
 
@@ -72,9 +75,4 @@ Full-Stack Developer and Software Engineer with 4+ years of experience deliverin
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushi-bandathmakuru)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.rushibandathmakuru.dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushibandathmakuru06@gmail.com)
-
----
-
-⚡ *"Building robust, maintainable software that scales effectively and adapts to changing business needs."*
